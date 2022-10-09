@@ -1,2 +1,5 @@
 id,type
 fonts/DNFBitBitTTF.ttf,1
+sound/hit_hard_block.wav,2
+sound/hit_soft_block.wav,2
+sound/pong_bgm.wav,2
